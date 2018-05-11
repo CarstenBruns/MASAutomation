@@ -1,0 +1,6 @@
+#cj_lic_standalone_1_variable_input_key_file 
+
+#Global,IPMAS,LICVER
+Global Values,
+#Instance(s),IPMAS,LICVER,
+192.168.178.162,192.168.178.152,VP1000,

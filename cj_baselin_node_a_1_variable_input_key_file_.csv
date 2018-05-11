@@ -1,0 +1,6 @@
+#cj_baselin_node_a_1_variable_input_key_file 
+
+#Global,hostname,VLANNRFE,VLANDESFE,SNIPPROD,SNIPNM
+Global Values,
+#Instance(s),hostname,VLANNRFE,VLANDESFE,SNIPPROD,SNIPNM,
+192.168.178.160-192.168.178.161,ns1,123,Test-VLAN,192.168.178.245,255.255.255.0,
