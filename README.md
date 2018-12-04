@@ -20,7 +20,8 @@ What you'll get:
 - Files beginning with com.cognitionit:
     Example Stylebooks created by Esther Barthel
     
-To import all the stuff in your Citrix ADM you just need to choose the right section. 
+To import all the stuff in your Citrix ADM you just need to choose the right section.
+
     For Stylebooks use ADM -> Applications -> Configuration -> Stylebooks -> Import
     For Configuration Jobs use ADM -> Networks -> Configuration Jobs -> Configuration Templates -> Import
 
