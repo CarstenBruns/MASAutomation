@@ -2,7 +2,7 @@
 
 Welcome to my Citrix Application Delivery Management (ADM) (formally: NetScaler Management and Analytics (MAS)) repository.
 
-My repository keeps track of all Citrix ADM (formally: NetScaler MAS) Configuration Jobs I have created during my many adventures to automate NetScaler deployments and configurations.
+My repository keeps track of all Citrix ADM (formally: NetScaler MAS) Configuration Jobs I have created during several projekts to automate NetScaler deployments and configurations.
 
 This repository will contain the different custom ADM Configuration Jobs to support automated enrollment for Citrix ADC (formally: NetScaler) deployments and configurations where the ADM is your centralized management system.
 
